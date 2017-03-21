@@ -1,0 +1,17 @@
+{
+  "name": "staymarta-libdb",
+  "version": "1.0.0",
+  "description": "Database Library",
+  "main": "index.js",
+  "repository": "https://github.com/staymarta/libdb",
+  "author": "Jared Allard <jared@staymarta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "arangojs": "^5.6.0",
+    "debug": "^2.6.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.18.0"
+  }
+}
